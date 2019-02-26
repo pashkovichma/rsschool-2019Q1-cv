@@ -1,9 +1,8 @@
 Maryia Pashkovich
-=================
 
 -----------------------     ----------------------------
 tel.+375-29-74301-77            pashkovichma@gmail.com
------------------------     ----------------------------
+
 
 Education
 ---------
@@ -29,7 +28,7 @@ Programming Languages
 
 :   Basic knowledge of **JS**, **CSS**, **HTML**, **Common Lisp**
 
-[ref]: https://github.com/pashkovichma
+[GitHub]: https://github.com/pashkovichma
 
 ----------------------------------------
 
