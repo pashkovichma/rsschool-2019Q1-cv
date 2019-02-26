@@ -28,7 +28,7 @@ Programming Languages
 
 :   Basic knowledge of **JS**, **CSS**, **HTML**, **Common Lisp**
 
-[GitHub]: https://github.com/pashkovichma
+https://github.com/pashkovichma
 
 ----------------------------------------
 
