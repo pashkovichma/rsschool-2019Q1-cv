@@ -26,7 +26,7 @@ Experience
 
 Programming Languages
 
-:   Basic knowledge of **JS**, **CSS**, **HTML**, **Common Lisp**
+:   Basic knowledge of **JS**, **CSS**, **HTML**
 
 https://github.com/pashkovichma
 
