@@ -1,1 +1,1 @@
-# rsschool-2019Q1-cv
+[https://pashkovichma.github.io/rsschool-2019Q1-cv/cv](https://pashkovichma.github.io/rsschool-2019Q1-cv/cvgi)
